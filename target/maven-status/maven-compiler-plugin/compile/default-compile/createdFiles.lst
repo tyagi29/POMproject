@@ -1,0 +1,7 @@
+com/magplus/util/ExtentReporterNG.class
+com/magplus/pages/HomePage.class
+com/magplus/util/WebEventListener.class
+com/magplus/base/TestBase.class
+com/magplus/util/MagplusUtil.class
+com/magplus/pages/BrandPage.class
+com/magplus/pages/LoginPage.class
